@@ -1,0 +1,4 @@
+Resumen de Notas Primer Parcial Programación II
+Nota mínima: 4
+Nota máxima: 9
+Nota promedio: 6
